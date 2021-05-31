@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.exe
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.deps.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.runtimeconfig.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.runtimeconfig.dev.json
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\ref\Exercício 6.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\bin\Debug\net5.0\Exercício 6.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.csprojAssemblyReference.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.AssemblyInfo.cs
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\ref\Exercício 6.dll
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.pdb
+C:\Users\Micro\Documents\SENAI\c#\Exercícios\Exercícios Dia 10-5\Exercício 6\obj\Debug\net5.0\Exercício 6.genruntimeconfig.cache
